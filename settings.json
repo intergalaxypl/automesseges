@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "automasseges",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "automeseges",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "surrvivall.play.hosting",
+    "port": 8823,
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
@@ -23,11 +23,11 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -47,7 +47,7 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
@@ -58,7 +58,7 @@
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
